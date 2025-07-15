@@ -43,7 +43,7 @@ positionSTA_est_3D = trilateration3D_solver(positionAPs_3D, distances_est_3D);
 % Plot the positions of the true/estimated STA and APs in the xyz-space 
 figure
 plot_Nodes_3D(positionAPs_3D, positionSTA_3D, positionSTA_est_3D, distances_est_3D)
-xlim([-12 12]), ylim([-12 12]), zlim([-5 10])
+xlim([-12 20]), ylim([-12 20]), zlim([-5 10])
 grid on
 title('3D Trilateration')
 
