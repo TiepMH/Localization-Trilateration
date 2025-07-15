@@ -7,4 +7,4 @@
 ---
 NOTE: 
 
-The distances are accurately estimated. In practice, however, this may not hold true. Nonetheless, the distances can be estimated using alternative methods, such as Time of Arrival (TOA) derived from a MUSIC spectrum (see: ).
+The distances are accurately estimated. In practice, however, this may not hold true. Nonetheless, the distances can be estimated using alternative methods, such as Time of Arrival (TOA) derived from a MUSIC spectrum.
